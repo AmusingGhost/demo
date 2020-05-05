@@ -1,11 +1,11 @@
 public class HelloWorld {
-    /* µÚÒ»¸öJava³ÌÐò
-     * Ëü½«´òÓ¡×Ö·û´® Hello World
+    /* ï¿½ï¿½Ò»ï¿½ï¿½Javaï¿½ï¿½ï¿½ï¿½
+     * ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ó¡ï¿½Ö·ï¿½ï¿½ï¿½ Hello World
      */
     public static void main(String []args) {
-        System.out.println("Hello World"); // ´òÓ¡ Hello World
-		System.out.println("1");
+        System.out.println("Hello World"); // ï¿½ï¿½Ó¡ Hello World
 		System.out.println("Hello World");
+System.out.println("1");
 		System.out.println("2");
     }
 }
